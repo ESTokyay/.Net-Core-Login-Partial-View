@@ -1,0 +1,25 @@
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Core\obj\Debug\netcoreapp3.1\Cari.Core.pdb

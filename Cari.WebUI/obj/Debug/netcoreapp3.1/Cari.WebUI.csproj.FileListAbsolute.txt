@@ -1,0 +1,465 @@
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.exe
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.input.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.output.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorCoreGenerate.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.xml
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.dev.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.genruntimeconfig.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.exe
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.input.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.output.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorCoreGenerate.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.xml
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.genruntimeconfig.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.exe
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.runtimeconfig.dev.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Business.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorAssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.input.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.TagHelpers.output.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorCoreGenerate.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.Views.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\Cari.WebUI.StaticWebAssets.xml
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Cari.WebUI.genruntimeconfig.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial_SaveCari.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Partial_Update.cshtml.g.cs

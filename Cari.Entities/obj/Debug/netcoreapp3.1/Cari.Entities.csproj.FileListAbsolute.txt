@@ -1,0 +1,36 @@
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Yeni klasör\Cari\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\Deneme\Login\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\bin\Debug\netcoreapp3.1\Cari.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Login-master\Cari.Entities\obj\Debug\netcoreapp3.1\Cari.Entities.pdb

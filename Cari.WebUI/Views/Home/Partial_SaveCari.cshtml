@@ -1,0 +1,189 @@
+﻿<div class="modal  fade" id="newperson" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Yeni Cari</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="input-group input-group-sm mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="inputGroup-sizing-sm">Ünvan</span>
+                    </div>
+                    <input id="unvan" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <table class="table">
+
+                            <thead class="thead-dark">
+
+                                <tr>
+                                    <th scope="col">Telefonlar</th>
+                                    <th>
+                                        <button id="addTelefonInput" class="btn btn-sm btn-success  float-right">+</button>
+                                    </th>
+                                </tr>
+
+                            </thead>
+                            <tbody id="addTel">
+                            </tbody>
+
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <table class="table">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">Adresler</th>
+                                    <th>
+                                        <button id="addAddressInput" class="btn btn-sm btn-success  float-right">+</button>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody id="addAddress">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Çıkış</button>
+                <button type="button" onclick="saveTel()" class="btn btn-primary">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $("#addTelefonInput").click(function () {
+        $("#addTel")
+            .append('<tr><th><input type="text" placeholder="Add Phone" class="form-control phoneNumber"></th><th><button  class="btn btn-sm btn-danger deleteTel">x</button></th></tr>');
+    });
+
+    $(document).on('click', '.deleteTel', function () {
+        $(this).parents("tr").remove();
+    });
+
+    $("#addAddressInput").click(function () {
+        $("#addAddress")
+            .append('<tr><th><input type="text" placeholder="Add Address" class="form-control Address"></th><th><button  class="btn btn-sm btn-danger deleteAddress">x</button></th></tr>');
+    });
+
+    $(document).on('click', '.deleteAddress', function () {
+        $(this).parents("tr").remove();
+    });
+
+</script>
+
+<script>
+
+    var numbers = [];
+
+    var Address = [];
+
+    var getDatas = function (id) {
+        var phoneTable = $("#tel");
+
+        var addressTable = $("#address");
+
+        var personID = id;
+
+        var getPhones = function () {
+            $.ajax({
+                url: "/Home/GetPhones",
+                type: 'GET',
+                dataType: 'json',
+                beforeSend: function () {
+                    phoneTable.html("");
+                },
+                data: {
+                    "id": personID
+                },
+                success: function (loadData) {
+                    for (var i = 0; i < loadData.phones.length; i++) {
+                        var tel = $("#tel");
+                        tel.append("<tr><td>" + loadData.phones[i] + "</td></tr>");
+                    }
+                },
+                error: function (error) {
+                    console.log(error.Message);
+                },
+            });
+        };
+
+        var getAddress = function () {
+            $.ajax({
+                url: "/Home/GetAddress",
+                type: 'GET',
+                dataType: 'json',
+                beforeSend: function () {
+                    addressTable.html("");
+                },
+                data: {
+                    "id": personID
+                },
+                success: function (loadData) {
+                    for (var i = 0; i < loadData.length; i++) {
+                        var address = $("#address");
+                        address.append("<tr><td>" + loadData[i].address + "</td></tr>");
+                    }
+                },
+                error: function (error) {
+                    console.log(error.Message);
+                },
+            });
+        };
+
+        getAddress();
+        getPhones();
+    };
+
+
+
+
+
+</script>
+
+<script> 
+
+    var saveTel = function () {
+
+        $('input[type="text"].phoneNumber').each(function () {
+            numbers.push($(this).val());
+        });
+
+        $('input[type="text"].Address').each(function () {
+            Address.push($(this).val());
+        });
+        var unvan = $("#unvan").val();
+
+        var addPhones = function () {
+            $.ajax({
+                url: "/Home/AddPhone",
+                type: 'POST',
+                dataType: 'json',
+                data: {
+                    "phoneNumbers": numbers,
+                    "unvan": unvan,
+                    "Address": Address
+                },
+                success: function () {
+                    alert("OK");
+                },
+                error: function (error) {
+                    console.log(error.Message);
+                },
+            });
+        };
+
+
+        addPhones();
+        window.history.go(0)
+        window.location.reload()
+
+    };
+</script>

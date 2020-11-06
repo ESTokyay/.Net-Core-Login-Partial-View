@@ -1,0 +1,114 @@
+﻿@model IEnumerable<Cari.Entities.Concrete.Person>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    var sayac = 0;
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4" style="background-color:aqua">
+
+            <div class="row"><h1>@TempData["UserName"]</h1></div>
+            <table>
+                <tr><td><button type="button" class="btn btn-primary btn-lg " onclick="document.location.reload(true);">Cari Listele</button></td></tr>
+                <tr><td><button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#newperson">Yeni Cari</button></td></tr>
+
+                <tr>
+                    <td>
+                        <form id="log-out" class="form" action="/Login/index" method="post">
+
+                            <a href="/Login/LogOut" class="btn btn-primary btn-lg ">Çıkış</a>
+
+                        </form>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+        <div class="col-md-8" style="background-color:aquamarine">
+
+            <div class="row" style="text-align: center"><h1 style="background-color: brown">Cari Defteri</h1></div>
+
+            <div class="row">
+                <table class="table table-striped table-dark">
+                    <thead>
+                        <tr>
+                            <th scope="col">ID</th>
+                            <th scope="col">Ünvan</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var cariListe in Model)
+                        {
+                            <tr onclick="getDatas(@cariListe.PersonID)">
+                                <td>
+                                    @{
+                                        ++sayac;
+                                    }
+                                    @sayac
+                                </td>
+                                <td>@cariListe.Title</td>
+                                <td><a href="/Home/Delete/@cariListe.PersonID" class="btn btn-primary btn-sm ">Sil</a></td>                           
+                                <td><a href="#Update"  data-toggle="modal"  class="update btn btn-primary btn-sm" onclick="editdata(@cariListe.PersonID)">Düzenle</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <table class="table">
+
+                        <thead class="thead-dark">
+
+                            <tr>
+                                <th scope="col">Telefonlar</th>
+                            </tr>
+
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th id="tel"></th>
+                            </tr>
+                        </tbody>
+
+                    </table>
+                </div>
+                <div class="col-md-6">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Adresler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th id="address"></th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<partial name="Partial_SaveCari" />
+<partial name="Partial_Update" />
+
+
+
+
+
+
+
+
+
