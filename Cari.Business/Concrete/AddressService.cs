@@ -18,7 +18,7 @@ namespace Cari.Business.Concrete
         public void Add(Addresses entity)
         {
             _addressDal.Add(entity);
-            //XSS ve IDOR
+            
         }
 
         public void Delete(Addresses entity)
